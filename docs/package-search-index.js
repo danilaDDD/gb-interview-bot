@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.gbdanila.interviewbot"},{"l":"ru.gbdanila.interviewbot.command"},{"l":"ru.gbdanila.interviewbot.entity"},{"l":"ru.gbdanila.interviewbot.repository"},{"l":"ru.gbdanila.interviewbot.view"}];updateSearchResults();
